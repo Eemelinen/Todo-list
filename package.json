@@ -1,0 +1,20 @@
+{
+  "name": "salt-jsfs-purgatory-d1",
+  "version": "1.0.0",
+  "description": "Purgatory week tasks for the SALT JSFS Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "echo Starting server on port 8000...",
+    "start": "cd public && python -m SimpleHTTPServer 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appliedtechnology/salt-jsfs-purgatory.git"
+  },
+  "author": "School of Applied Technology",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appliedtechnology/salt-jsfs-purgatory/issues"
+  },
+  "homepage": "https://github.com/appliedtechnology/salt-jsfs-purgatory#readme"
+}
